@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in myself.
-- 🌱 I’m currently learning as full stack developer.
-- 💞️ I’m looking to collaborate on as you wish.
-- 📫 How to reach me: shubham.reddy50@protonmail.com
+- 👀 I’m interested in java and node.js ie backend projects.
+- 🌱 Journey to as innovative in software  developer.
+- 💞️ I’m looking to collaborate in mostly backend developer.
+- 📫 How to reach me: shubham.reddy50@outlook.com
 
 <!---
 Hey-Jarvis/Hey-Jarvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
