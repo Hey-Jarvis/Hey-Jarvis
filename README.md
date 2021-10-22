@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in java and node.js ie backend projects.
-- 🌱 Journey to as innovative in software  developer.
+- 👀 I’m interested in java and node.js in backend projects.
+- 🌱 Journey to as innovative in fullstack  developer.
 - 💞️ I’m looking to collaborate in mostly backend developer.
 - 📫 How to reach me: shubham.reddy50@outlook.com
 
