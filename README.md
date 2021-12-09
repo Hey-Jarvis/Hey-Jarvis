@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in java and node.js in backend projects.
-- 🌱 Journey to as innovative in fullstack  developer.
-- 💞️ I’m looking to collaborate in mostly backend developer.
+- 👀 I’m interested fullstack projects but i  love backend projects using java and node.js.
+- 🌱 Journey to as innovative in fullstack  developer and curiosity in Blockchain and CyberSecurity.
+- 💞️ I’m looking to collaborate in Fullstac projects.
 - 📫 How to reach me: shubham.reddy50@outlook.com
 
 <!---
