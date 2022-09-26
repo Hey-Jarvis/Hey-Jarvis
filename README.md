@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack projects but i love backend projects using java and node.js.
 - 🌱 Journey to as innovative in fullstack  developer and curiosity in Blockchain and CyberSecurity.
 - 💞️ I’m looking to collaborate in fullstack projects.
-- 📫 How to reach me: shubham.reddy50@outlook.com
+
 
 <!---
 Hey-Jarvis/Hey-Jarvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
