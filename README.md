@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in fullstack projects but i love backend projects using java and node.js.
-- 🌱 Journey to as innovative in fullstack  developer and curiosity in Blockchain and CyberSecurity.
+- 👀 I’m interested in fullstack projects but i love backend projects using java.
+- 🌱 Journey to as innovative in fullstack  developer.
 - 💞️ I’m looking to collaborate in fullstack projects.
 
 
